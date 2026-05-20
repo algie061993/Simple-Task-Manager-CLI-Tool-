@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "description": "Learn Node.js variables",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "description": "Feed the cat",
+    "completed": false
+  }
+]
